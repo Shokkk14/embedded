@@ -1,2 +1,2 @@
-embedded
+STM32FX series libraries
 ========
